@@ -49,9 +49,6 @@ export default {
     min-width: 63px;
     &__surname {
       font-weight: bold;
-      .vue-typer .caret {
-        display: none;
-      }
     }
     // &__name {
     //   &::after {
