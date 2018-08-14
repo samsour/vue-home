@@ -2,6 +2,14 @@
   <div id="app">
     <top-bar/>
     <router-view/>
+    <!-- <full-page ref="fullpage" :options="options" id="fullpage">
+    <div class="section">
+      First section ...
+    </div>
+    <div class="section">
+      Second section ...
+    </div>
+  </full-page> -->
   </div>
 </template>
 
@@ -31,7 +39,7 @@ export default {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   color: #111;
-  background: linear-gradient(to right, #eee, #fff 40%);
+  background: #eee;
   height: 100vh;
 }
 </style>

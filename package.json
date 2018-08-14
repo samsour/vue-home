@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "vue": "^2.5.17",
+    "vue-fullpage.js": "0.0.5",
     "vue-router": "^3.0.1",
     "vue-typer": "^1.2.0"
   },

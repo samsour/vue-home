@@ -17,7 +17,6 @@ export default {
 .left-bar {
   width: 50px;
   height: 100vh;
-  background: #fff;
   display: flex;
   z-index: 1;
   align-content: flex-end;

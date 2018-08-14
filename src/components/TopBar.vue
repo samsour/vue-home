@@ -15,7 +15,6 @@ export default {
 
 <style scoped lang="scss">
 .top-bar {
-  background: #fff;
   height: 50px;
   z-index: 2;
 }
